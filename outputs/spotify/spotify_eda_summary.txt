@@ -1,0 +1,15 @@
+SPOTIFY TRACKS EDA SUMMARY
+===================================
+
+Total Tracks: 113549
+Unique Artists: 31437
+Unique Albums: 46589
+Unique Genres: 114
+Average Popularity: 33.32
+Average Duration (minutes): 3.8
+Average Danceability: 0.567
+Average Energy: 0.642
+Explicit Tracks: 9718
+Non-Explicit Tracks: 103831
+Tracks Under 1 Minute: 821
+Tracks Over 15 Minutes: 149

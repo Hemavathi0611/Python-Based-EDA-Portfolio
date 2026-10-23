@@ -1,0 +1,53 @@
+
+MAGICBRICKS DELHI PROPERTY EDA SUMMARY
+======================================
+
+1. DATASET OVERVIEW
+-------------------
+Original records: 1259
+Records after duplicate removal: 1176
+Number of columns: 11
+Duplicate records remaining: 0
+
+2. PROPERTY PRICE ANALYSIS
+-------------------------
+Average price: Rs. 21,091,726.19
+Median price: Rs. 14,000,000.00
+Minimum price: Rs. 1,000,000.00
+Maximum price: Rs. 240,000,000.00
+
+3. PROPERTY CHARACTERISTICS
+---------------------------
+Average area value: 1,447.54
+Median area value: 1,172.50
+Average BHK: 2.79
+Average bathrooms: 2.55
+
+4. DATA QUALITY
+---------------
+Missing Per_Sqft values: 227
+Missing Per_Sqft percentage:
+19.30%
+
+Properties with area above IQR threshold: 61
+Properties with parking above 5: 12
+
+5. LOCALITY ANALYSIS
+--------------------
+Highest average-price locality among localities
+with at least 3 properties: Maharani Bagh, New Friends Colony
+Average listed price: Rs. 121,428,571.43
+Number of properties: 7
+
+6. IMPORTANT NOTES
+------------------
+- Exact duplicate rows were removed.
+- Missing numerical and categorical values were handled.
+- Missing Per_Sqft values were retained, not imputed.
+- Large area values were flagged for investigation, not deleted.
+- Parking values above 5 were flagged for review.
+- Correlation indicates association, not causation.
+- Prices are dataset listing values, not verified valuations.
+
+======================================
+End of Report
