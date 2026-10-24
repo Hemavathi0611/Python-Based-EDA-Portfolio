@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📊 Python-Based Exploratory Data Analysis (EDA) Portfolio
 
 A Python-based data analytics portfolio featuring five end-to-end Exploratory Data Analysis projects across restaurant, streaming, music, real estate, and retail domains.
@@ -120,7 +120,6 @@ Open the project in VS Code or Jupyter Notebook, select the dataset you want to 
 Computer Science and Engineering Student | Aspiring Data Analyst
 
 **GitHub:** [Hemavathi0611](https://github.com/Hemavathi0611)
-=======
+
 # Python-Based-EDA-Portfolio
 A collection of five Python-based Exploratory Data Analysis projects featuring data cleaning, statistical analysis, visualization, and data-driven insights.
->>>>>>> bc93cd924afc2c52bce9deca7f68f6d2b400d56c
